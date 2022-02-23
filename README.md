@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on Java, Kotlin
+- 🔭 I’m currently working on Java & Kotlin
 - 🌱 I’m currently learning Android Development
